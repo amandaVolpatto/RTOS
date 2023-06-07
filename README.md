@@ -1,7 +1,3 @@
-<h1>✨ADV Automação de Umidificadores✨</h1>
-<p>O projeto ADV Automação de Umidificadores, foi feito com o objetivo de automatizar o uso de um umidificador. Desenvolvedores: Vitória Castanha, Daniel Santos e Amanda Martarello, acadêmicos do curso de Sistemas de Informação do Centro Universitário Unimater de 🦆Pato Branco🦆 (PR). </p>
-<img src="./img/umidificador-gif.gif" alt="gif de um umidificador"> 
-
 <h1> Introdução a RTOS</h1>
 <ul>
 <p>RTOS significa "Real-Time Operating System" (Sistema Operacional em Tempo Real, em tradução livre) e é um tipo de sistema operacional projetado para aplicações que exigem resposta em tempo real. Neste contexto, "tempo real" significa que as operações devem ser concluídas dentro de prazos estritos e previsíveis, garantindo que as tarefas sejam executadas no momento exato em que são necessárias.
